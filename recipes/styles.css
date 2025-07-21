@@ -1,6 +1,16 @@
 html {
     background-color: bisque;
 }
+.home-link:link, .home-link:visited {
+    display: block;
+    box-sizing: content-box;
+    width: fit-content;
+    background-color: lightgreen;
+    color: black;
+    text-decoration: none;
+    font-size: 25px;
+    padding: 4px;
+}
 h1 {
     text-align: center;
 }
@@ -21,4 +31,13 @@ h1 {
 .desc-div h2, .desc-div p {
     margin: 5px;
     padding: 5px;
+}
+ul h2, ol h2 {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    padding-top: 5px;
+}
+ol li {
+    padding: 3px;
 }
