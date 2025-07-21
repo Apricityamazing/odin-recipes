@@ -1,3 +1,18 @@
 #mainpage-title {
     text-align: center;
 }
+.img-div {
+    margin: auto;
+    border: 2px solid black;
+    box-sizing: border-box;
+    width: 50%;
+}
+img {
+    width: 300px;
+    display: block;
+    margin: auto;
+    padding-bottom: 10px;
+}
+.img-h2 {
+    text-align: center;
+}
