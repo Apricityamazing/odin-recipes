@@ -37,6 +37,7 @@ ul h2, ol h2 {
     margin: 0;
     padding: 0;
     padding-top: 5px;
+    padding-bottom: 5px;
 }
 ol li {
     padding: 3px;
